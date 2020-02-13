@@ -24,4 +24,6 @@ enum class result_t {
   key_not_exist,
   file_not_support
 };
-}
+}  // namespace keilo
+
+#include "instance.hpp"
