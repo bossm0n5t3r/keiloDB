@@ -27,3 +27,4 @@ enum class result_t {
 }  // namespace keilo
 
 #include "instance.hpp"
+#include "record.hpp"
