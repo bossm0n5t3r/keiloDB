@@ -28,3 +28,4 @@ enum class result_t {
 
 #include "instance.hpp"
 #include "record.hpp"
+#include "table.hpp"
