@@ -26,6 +26,8 @@ enum class result_t {
 };
 }  // namespace keilo
 
+#include "database.hpp"
 #include "instance.hpp"
+#include "json.hpp"
 #include "record.hpp"
 #include "table.hpp"
